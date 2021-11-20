@@ -10,6 +10,7 @@ class SimpleBoxController {
         this.keymap.set(key, function() {return action});
     } 
 
+    // TODO: Refactor
     applyKeysToWindow() {
         document.body.addEventListener("keypress", function(e) {
             e.preventDefault();
