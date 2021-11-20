@@ -1,0 +1,22 @@
+{
+  "name": "threejs_tutorial_basicworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoSteinke/ThreeJS_Tutorial_BasicWorld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoSteinke/ThreeJS_Tutorial_BasicWorld/issues"
+  },
+  "homepage": "https://github.com/MarcoSteinke/ThreeJS_Tutorial_BasicWorld#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

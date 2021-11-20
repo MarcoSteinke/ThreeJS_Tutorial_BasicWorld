@@ -59,12 +59,12 @@ class BasicWorldDemo {
 
     const loader = new THREE.CubeTextureLoader();
     const texture = loader.load([
-        './resources/posx.jpg',
-        './resources/negx.jpg',
-        './resources/posy.jpg',
-        './resources/negy.jpg',
-        './resources/posz.jpg',
-        './resources/negz.jpg',
+        './posx.jpg',
+        './negx.jpg',
+        './posy.jpg',
+        './negy.jpg',
+        './posz.jpg',
+        './negz.jpg',
     ]);
     this._scene.background = texture;
 
